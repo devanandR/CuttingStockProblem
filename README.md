@@ -1,7 +1,7 @@
 # CuttingStockProblem
 We take you through a tutorial to understand cutting stock problem with a simple example and use python to implement the concept discussed in the tutorial 
 
-The tutorial is available here: https://letsgyan.com/the-easy-guide-for-cuttings-stock-problem-and-column-generation-technique-to-solve-it-learn-with-example/
+The tutorial is available here: https://letsgyan.com/cuttings-stock-problem-and-column-generation-technique-a-tutorial-with-example/
 
 Idea1, Idea2, Kantrovich Model and Column-generation technique are coded for the following example:
 
